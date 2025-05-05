@@ -111,7 +111,7 @@ def set_background_with_overlay(image_path):
 
 
 # Apply the background
-set_background_with_overlay(r"C:\Users\hp\Documents\Datafied Files\VS Code\siwes_manager_\images\miva_picture.png")
+set_background_with_overlay(r"images/miva_picture.png")
 
 
 # Utility to hash passwords
