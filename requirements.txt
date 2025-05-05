@@ -1,0 +1,7 @@
+streamlit
+sqlalchemy
+pandas
+plotly
+# psycopg2-binary  # Only if you're using PostgreSQL; remove if using SQLite
+email-validator
+python-dotenv
