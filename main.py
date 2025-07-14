@@ -233,7 +233,8 @@ def signup(db):
         "adedayo@miva.university", 
         "chioma.obiajulu@miva.university",
         "isaac@miva.university", 
-        "morolake.lawrence@miva.university"
+        "morolake.lawrence@miva.university",
+        "sultana@miva.university"
     ]
 
     left, center, right = st.columns([1, 3, 1])
